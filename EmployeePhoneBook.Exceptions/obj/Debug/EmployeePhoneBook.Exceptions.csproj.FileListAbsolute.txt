@@ -1,0 +1,6 @@
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\bin\Debug\EmployeePhoneBook.Exceptions.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\bin\Debug\EmployeePhoneBook.Exceptions.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\obj\Debug\EmployeePhoneBook.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\obj\Debug\EmployeePhoneBook.Exceptions.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.Exceptions\obj\Debug\EmployeePhoneBook.Exceptions.pdb

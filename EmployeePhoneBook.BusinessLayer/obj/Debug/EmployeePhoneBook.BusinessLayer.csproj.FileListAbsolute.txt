@@ -1,0 +1,17 @@
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CopyComplete
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.dll.config
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.CopyComplete
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.dll
+C:\Users\NEHA\OneDrive\Desktop\LTTS .Net\EmployeePhoneBook\EmployeePhoneBook\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.pdb
